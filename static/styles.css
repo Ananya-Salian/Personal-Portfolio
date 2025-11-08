@@ -1,7 +1,8 @@
 body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
     background-color: antiquewhite;
-    height:100vh;
-    align-items: center;
-    text-align:center;
+    color:rgb(150, 105, 105)
 }
     
